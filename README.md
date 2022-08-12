@@ -1,6 +1,10 @@
 # Targeted-Advertising
 Target advertisements to specific users based on their interests
 
+# Data Source
+
+https://www.cs.cmu.edu/~enron/
+
 # Explanation
 1.	Mahout is a powerful tool for machine learning purposes that was can use with Hadoop. I can use the K Means Clustering that is provided with the
 Mahout to perform clustering of similar interest users.
